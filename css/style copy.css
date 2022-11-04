@@ -1,0 +1,6 @@
+.bgcardimg {background-size: cover;
+height: 600px;width: 600px;;}
+.cardimgmin {width: 150px;
+aspect-ratio: 1/1 ;
+opacity: 0.4;}
+.selected-min {opacity: 1;}
